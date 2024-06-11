@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 
+# author: Shailaja Akella, shailaja.akella93@gmail.com
 
 def simulate(num_units, num_trials, duration, step_size, weights, inp_curr, delay = 5, params=None):
 
