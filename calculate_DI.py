@@ -2,6 +2,7 @@ import math
 import numpy as np
 from scipy.spatial.distance import pdist, squareform
 
+# author: Shailaja Akella, shailaja.akella93@gmail.com
 
 class directed_information:
 
